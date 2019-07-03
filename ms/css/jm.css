@@ -1,0 +1,62 @@
+#maintop{
+	height: 15rem;
+	margin: 0;
+	padding: 0;
+	margin-top: 3rem;
+	text-align: center;
+}
+
+#maintopleft{
+	height: 12rem;
+	margin: 0;
+	padding: 0;
+	margin-left: 2rem;
+	margin-top: 1rem;
+	background-color: pink;
+}
+#maintopright{
+	height: 12rem;
+	margin: 0;
+	padding: 0;
+	margin-left: 2rem;
+	margin-top: 1rem;
+	background-color: #C1E2B3;
+}
+#gj{
+	margin-top: 4rem;
+}
+#dl{
+	font-size: 0.2rem;
+}
+#dz{
+	margin-top: 4rem;
+}
+#gzs{
+	font-size: 0.2rem;
+}
+#mainbottomtitle{
+	margin: 0;
+	padding: 0;
+	margin-left: 1rem;
+}
+#tdl{
+	font-size: 0.2rem;
+}
+#mainmain{
+	height: 16rem;
+}
+#mainmain div{
+	margin: 0;
+	padding: 0;
+	margin-left: 1rem;
+	margin-top: 0.5rem;
+	text-align: center;
+}
+#mainmain div dl dt div{
+	background-color: pink;
+	height: 5rem;
+	width: 5rem;
+	border: 0;
+	border-radius: 50%;
+	line-height: 5rem;
+}
